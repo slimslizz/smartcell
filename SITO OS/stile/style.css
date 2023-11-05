@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: rgb(21, 155, 21);
+    padding-bottom: 15px;
+    
+}
+body{
+    text-align: center;
+    background-color: rgb(147, 146, 146);
+   
+
+}
+
+
+#nav{
+    background-color:rgb(63, 203, 63) ;
+    margin: 0;
+    padding-bottom: 0px;
+
+   
+
+
+}
+
+
+#nav li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: solid;
+    margin: 0  ;
+    padding: 5px 7px 5px 7px;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    
+    
+}
+#nav li:hover{
+    background-color: rgb(180, 147, 212);
+}
